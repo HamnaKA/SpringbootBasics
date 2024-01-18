@@ -19,7 +19,7 @@ public class CourseController {
   @Autowired
   private CourseService courseService;
   
-  @GetMapping("/course/{studentsId}")
+  @GetMapping("/student/{studentsId}/course")
   public List<Course> getAllCourses(@PathVariable String studentsId){
 	  return courseService.getAllCourses(studentsId);
   }
