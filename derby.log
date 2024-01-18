@@ -1,0 +1,77 @@
+----------------------------------------------------------------
+Thu Jan 18 11:11:37 IST 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance a816c00e-018d-1b16-d1a9-000001031498 
+on database directory memory:D:\Springboot Prac\Student\d26b3f1d-4966-4abe-92ed-3411dc01bfe5 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2f333739 
+Loaded from file:/C:/Users/hamna.ka/.m2/repository/org/apache/derby/derby/10.16.1.1/derby-10.16.1.1.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=17.0.7+7
+user.dir=D:\Springboot Prac\Student
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Thu Jan 18 11:12:40 IST 2024:
+Shutting down instance a816c00e-018d-1b16-d1a9-000001031498 on database directory memory:D:\Springboot Prac\Student\d26b3f1d-4966-4abe-92ed-3411dc01bfe5 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2f333739 
+----------------------------------------------------------------
+Thu Jan 18 11:12:44 IST 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance 0963c106-018d-1b16-d1a9-000001031498 
+on database directory memory:D:\Springboot Prac\Student\4d25e4fb-9e93-47f9-85b6-0cc606db2709 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2f333739 
+Loaded from file:/C:/Users/hamna.ka/.m2/repository/org/apache/derby/derby/10.16.1.1/derby-10.16.1.1.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=17.0.7+7
+user.dir=D:\Springboot Prac\Student
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Thu Jan 18 11:21:03 IST 2024:
+Shutting down instance 0963c106-018d-1b16-d1a9-000001031498 on database directory memory:D:\Springboot Prac\Student\4d25e4fb-9e93-47f9-85b6-0cc606db2709 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2f333739 
+----------------------------------------------------------------
+Thu Jan 18 11:21:06 IST 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance a6c0c1fe-018d-1b16-d1a9-000001031498 
+on database directory memory:D:\Springboot Prac\Student\87913836-80dd-4149-bd8d-ac9df31a1610 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2f333739 
+Loaded from file:/C:/Users/hamna.ka/.m2/repository/org/apache/derby/derby/10.16.1.1/derby-10.16.1.1.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=17.0.7+7
+user.dir=D:\Springboot Prac\Student
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Thu Jan 18 11:23:45 IST 2024:
+Shutting down instance a6c0c1fe-018d-1b16-d1a9-000001031498 on database directory memory:D:\Springboot Prac\Student\87913836-80dd-4149-bd8d-ac9df31a1610 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2f333739 
+----------------------------------------------------------------
+Thu Jan 18 11:23:46 IST 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance 802dc2f6-018d-1b16-d1a9-000001031498 
+on database directory memory:D:\Springboot Prac\Student\e1692d22-8c2e-4618-a879-e395527d2def with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2f333739 
+Loaded from file:/C:/Users/hamna.ka/.m2/repository/org/apache/derby/derby/10.16.1.1/derby-10.16.1.1.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=17.0.7+7
+user.dir=D:\Springboot Prac\Student
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Thu Jan 18 11:45:23 IST 2024:
+Shutting down instance 802dc2f6-018d-1b16-d1a9-000001031498 on database directory memory:D:\Springboot Prac\Student\e1692d22-8c2e-4618-a879-e395527d2def with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2f333739 
+----------------------------------------------------------------
+Thu Jan 18 11:45:25 IST 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance 95aac3ee-018d-1b16-d1a9-000001031498 
+on database directory memory:D:\Springboot Prac\Student\1b347e01-bf46-413d-917e-c748f558faaf with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2f333739 
+Loaded from file:/C:/Users/hamna.ka/.m2/repository/org/apache/derby/derby/10.16.1.1/derby-10.16.1.1.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=17.0.7+7
+user.dir=D:\Springboot Prac\Student
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
